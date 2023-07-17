@@ -1,0 +1,12 @@
+{
+  "spellcheckLanguages": [
+    "zh-CN",
+    "en"
+  ],
+  "vimMode": true,
+  "newFileLocation": "root",
+  "promptDelete": false,
+  "newFileFolderPath": "/D:/Program Files (x86)/notes",
+  "attachmentFolderPath": "考研笔记/计算机组成原理图片",
+  "alwaysUpdateLinks": true
+}

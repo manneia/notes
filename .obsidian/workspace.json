@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "3bd7119de422b6ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2efa4f350322f20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0795c3faf85b932",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "考研笔记/数学/高等数学/高等数学.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "55e405906f4806f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "64d249af2b2786dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd002b2de1a85a59",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "64ebad2094634393",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "feacec67f6c71529",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "4239c91a07b01cfa",
+    "type": "split",
+    "children": [
+      {
+        "id": "02a63ce8c7a43179",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38020737ab7b9d20",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "考研笔记/数学/高等数学/高等数学.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b9a05a83c0f6bc9f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "考研笔记/数学/高等数学/高等数学.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c39db9d82b0aa3c1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c14dbe7ab65c44c8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "考研笔记/数学/高等数学/高等数学.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
+    }
+  },
+  "active": "c0795c3faf85b932",
+  "lastOpenFiles": [
+    "考研笔记/数学/高等数学/高等数学.md",
+    "未命名.canvas",
+    "未命名.md",
+    "Excalidraw/Drawing 2023-07-17 20.20.23.excalidraw.md",
+    "Excalidraw",
+    "考研笔记/计算机组成原理/计算机组成原理.md",
+    "考研笔记/计算机网络",
+    "考研笔记/操作系统",
+    "考研笔记/数据结构与算法",
+    "考研笔记/数学/概率论",
+    "考研笔记/数学/线性代数",
+    "考研笔记/数学/高等数学",
+    "考研笔记/数学",
+    "考研笔记/未命名.md",
+    "考研笔记/计算机组成原理/层次结构.png",
+    "考研笔记/计算机组成原理/images/运算器的基本组成.png",
+    "考研笔记/计算机组成原理/images/以存储器为中心的计算机硬件框图.png",
+    "考研笔记/计算机组成原理/images/现代计算机层次结构图.png",
+    "考研笔记/计算机组成原理/images/冯·诺依曼硬件框图.png",
+    "考研笔记/计算机组成原理/images/层次结构.png",
+    "考研笔记/计算机组成原理/images/执行顺序.png",
+    "考研笔记/计算机组成原理/images",
+    "考研笔记/计算机组成原理/新建文件夹",
+    "考研笔记/计算机组成原理/冯·诺依曼硬件框图.png",
+    "Pasted image 20230716214123.png.md",
+    "考研笔记/计算机组成原理/运算器的基本组成.png",
+    "考研笔记/计算机组成原理/现代计算机层次结构图.png",
+    "测试文件.md"
+  ]
+}
