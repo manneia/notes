@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b2efa4f350322f20",
+        "id": "88a572e7c1790131",
         "type": "tabs",
         "children": [
           {
-            "id": "c0795c3faf85b932",
+            "id": "f0f3b67103cc34b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研笔记/数学/高等数学/高等数学.md",
+                "file": "考研笔记/数据结构与算法/数据结构与算法.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "考研笔记/数学/高等数学/高等数学.md",
+                "file": "考研笔记/数据结构与算法/数据结构与算法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "考研笔记/数学/高等数学/高等数学.md",
+                "file": "考研笔记/数据结构与算法/数据结构与算法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研笔记/数学/高等数学/高等数学.md"
+                "file": "考研笔记/数据结构与算法/数据结构与算法.md"
               }
             }
           }
@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,8 +149,9 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "c0795c3faf85b932",
+  "active": "f0f3b67103cc34b6",
   "lastOpenFiles": [
+    "考研笔记/数据结构与算法/数据结构与算法.md",
     "考研笔记/数学/高等数学/高等数学.md",
     "未命名.canvas",
     "未命名.md",

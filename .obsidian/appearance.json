@@ -1,5 +1,6 @@
 {
   "accentColor": "",
   "cssTheme": "Dracula for Obsidian",
-  "monospaceFontFamily": "Cascadia Mono"
+  "monospaceFontFamily": "Cascadia Mono",
+  "baseFontSize": 19
 }
