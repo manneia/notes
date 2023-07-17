@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研笔记/数据结构与算法/数据结构与算法.md",
+                "file": "考研笔记/数学/线性代数/线性代数.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "考研笔记/数据结构与算法/数据结构与算法.md",
+                "file": "考研笔记/数学/线性代数/线性代数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "考研笔记/数据结构与算法/数据结构与算法.md",
+                "file": "考研笔记/数学/线性代数/线性代数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研笔记/数据结构与算法/数据结构与算法.md"
+                "file": "考研笔记/数学/线性代数/线性代数.md"
               }
             }
           }
@@ -151,6 +151,10 @@
   },
   "active": "f0f3b67103cc34b6",
   "lastOpenFiles": [
+    "考研笔记/数学/概率论/概率论.md",
+    "考研笔记/数学/线性代数/线性代数.md",
+    "考研笔记/计算机网络/计算机网络.md",
+    "考研笔记/操作系统/操作系统.md",
     "考研笔记/数据结构与算法/数据结构与算法.md",
     "考研笔记/数学/高等数学/高等数学.md",
     "未命名.canvas",
