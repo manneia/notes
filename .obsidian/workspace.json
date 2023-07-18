@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研笔记/数学/线性代数/线性代数.md",
+                "file": "考研笔记/计算机组成原理/计算机组成原理.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4239c91a07b01cfa",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "考研笔记/数学/线性代数/线性代数.md",
+                "file": "考研笔记/计算机组成原理/计算机组成原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "考研笔记/数学/线性代数/线性代数.md",
+                "file": "考研笔记/计算机组成原理/计算机组成原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +126,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研笔记/数学/线性代数/线性代数.md"
+                "file": "考研笔记/计算机组成原理/计算机组成原理.md"
               }
+            }
+          },
+          {
+            "id": "aba8607d3a08f568",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -151,12 +160,12 @@
   },
   "active": "f0f3b67103cc34b6",
   "lastOpenFiles": [
-    "考研笔记/数学/概率论/概率论.md",
+    "考研笔记/数学/高等数学/高等数学.md",
     "考研笔记/数学/线性代数/线性代数.md",
+    "考研笔记/数学/概率论/概率论.md",
     "考研笔记/计算机网络/计算机网络.md",
     "考研笔记/操作系统/操作系统.md",
     "考研笔记/数据结构与算法/数据结构与算法.md",
-    "考研笔记/数学/高等数学/高等数学.md",
     "未命名.canvas",
     "未命名.md",
     "Excalidraw/Drawing 2023-07-17 20.20.23.excalidraw.md",
