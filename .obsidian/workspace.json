@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c19cc549f87e34cb",
+        "id": "06c4082eee7b6320",
         "type": "tabs",
         "children": [
           {
-            "id": "7403724b05155f46",
+            "id": "ebdace4fc0af2055",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "考研笔记/计算机组成原理/计算机组成原理.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "考研笔记/计算机组成原理/计算机组成原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "考研笔记/计算机组成原理/计算机组成原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "考研笔记/计算机组成原理/计算机组成原理.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,8 +149,10 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "7403724b05155f46",
+  "active": "dd002b2de1a85a59",
   "lastOpenFiles": [
+    "README.md",
+    "考研笔记/计算机组成原理/计算机组成原理.md",
     "考研笔记/计算机组成原理/images/总线物理实现.png",
     "考研笔记/计算机组成原理/images/总线上信息的传送.png",
     "考研笔记/计算机组成原理/images/以存储器为中心的双总线结构框图.png",
@@ -169,13 +163,11 @@
     "考研笔记/计算机组成原理/images/面向 CPU 的双总线结构框图.png",
     "考研笔记/计算机组成原理/images/链式查询方式.png",
     "考研笔记/计算机组成原理/images/计时器定时查询方式.png",
-    "考研笔记/计算机组成原理/images/各个总线.png",
     "考研笔记/计算机网络/计算机网络.md",
     "考研笔记/数学/高等数学/高等数学.md",
     "Excalidraw/Drawing 2023-07-18 20.42.39.excalidraw.md",
     "Excalidraw",
     "考研笔记/操作系统/操作系统.md",
-    "考研笔记/计算机组成原理/计算机组成原理.md",
     "考研笔记/数学/线性代数/线性代数.md",
     "考研笔记/数学/概率论/概率论.md",
     "考研笔记/数据结构与算法/数据结构与算法.md",
