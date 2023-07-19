@@ -2,5 +2,8 @@
   "table-editor-obsidian",
   "dataview",
   "obsidian-excalidraw-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "nldates-obsidian",
+  "markdown-prettifier",
+  "cm-editor-syntax-highlight-obsidian"
 ]
