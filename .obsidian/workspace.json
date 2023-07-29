@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研笔记/数学/高等数学/高等数学.md",
+                "file": "考研笔记/数学/线性代数/线性代数.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "考研笔记/数学/高等数学/高等数学.md",
+                "file": "考研笔记/数学/线性代数/线性代数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "考研笔记/数学/高等数学/高等数学.md",
+                "file": "考研笔记/数学/线性代数/线性代数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研笔记/数学/高等数学/高等数学.md"
+                "file": "考研笔记/数学/线性代数/线性代数.md"
               }
             }
           },
@@ -160,6 +160,7 @@
   },
   "active": "5fcf4e91baf0cad6",
   "lastOpenFiles": [
+    "考研笔记/数学/高等数学/高等数学.md",
     "考研笔记/数据结构与算法/数据结构与算法.md",
     "考研笔记/计算机组成原理/计算机组成原理.md",
     "考研笔记/计算机组成原理/images/层次结构 1.png",
@@ -175,7 +176,6 @@
     "考研笔记/计算机网络/images/速率与比特.png",
     "README.md",
     "考研笔记/计算机网络/images",
-    "考研笔记/数学/高等数学/高等数学.md",
     "Excalidraw/Drawing 2023-07-18 20.42.39.excalidraw.md",
     "Excalidraw",
     "考研笔记/操作系统/操作系统.md",
