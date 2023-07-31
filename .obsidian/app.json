@@ -8,5 +8,6 @@
   "promptDelete": false,
   "newFileFolderPath": "/D:/Program Files (x86)/notes",
   "attachmentFolderPath": "考研笔记",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showLineNumber": true
 }
