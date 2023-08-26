@@ -1,13 +1,11 @@
 {
-  "spellcheckLanguages": [
-    "zh-CN",
-    "en"
-  ],
+  "spellcheckLanguages": null,
   "vimMode": true,
   "newFileLocation": "root",
   "promptDelete": false,
   "newFileFolderPath": "/D:/Program Files (x86)/notes",
   "attachmentFolderPath": "考研笔记",
   "alwaysUpdateLinks": true,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "readableLineLength": false
 }

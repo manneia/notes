@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e134c6d418e986a0",
+        "id": "eb8f6b3c0204092c",
         "type": "tabs",
         "children": [
           {
-            "id": "5fcf4e91baf0cad6",
+            "id": "762de1b974dc93a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,8 +64,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "3b7b3c3f95103ff4",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -139,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -158,19 +167,24 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "5fcf4e91baf0cad6",
+  "active": "762de1b974dc93a6",
   "lastOpenFiles": [
+    "考研笔记/数学/线性代数/线性代数.md",
+    "考研笔记/数学/高等数学/高等数学.md",
+    "考研笔记/数学/数学.md",
+    "元素.md",
+    "Context/spacesLastSync.log",
+    "Context",
+    "README.md",
     "考研笔记/数据结构与算法/数据结构与算法.md",
+    "考研笔记/操作系统/操作系统.md",
     "考研笔记/数据结构与算法/images/完美二叉树.png",
     "考研笔记/数据结构与算法/images/斜二叉树示意图.png",
     "考研笔记/数据结构与算法/images/二叉树的基本形态.png",
-    "README.md",
     "考研笔记/数据结构与算法/images",
     "考研笔记/数据结构与算法/images/树的基本表示.png",
     "Excalidraw/Drawing 2023-07-31 10.43.09.excalidraw.md",
     "Excalidraw",
-    "考研笔记/数学/线性代数/线性代数.md",
-    "考研笔记/数学/高等数学/高等数学.md",
     "考研笔记/计算机组成原理/计算机组成原理.md",
     "考研笔记/计算机组成原理/images/层次结构 1.png",
     "考研笔记/计算机组成原理/images/存储器层级结构.png",
@@ -181,7 +195,6 @@
     "考研笔记/计算机网络/images/时延带宽积.png",
     "考研笔记/计算机网络/images",
     "Excalidraw/Drawing 2023-07-18 20.42.39.excalidraw.md",
-    "考研笔记/操作系统/操作系统.md",
     "考研笔记/数学/概率论/概率论.md",
     "未命名.canvas",
     "未命名.md",
@@ -191,8 +204,6 @@
     "考研笔记/数据结构与算法",
     "考研笔记/数学/概率论",
     "考研笔记/数学/线性代数",
-    "考研笔记/数学/高等数学",
-    "考研笔记/数学",
     "考研笔记/未命名.md",
     "Pasted image 20230716214123.png.md",
     "测试文件.md"

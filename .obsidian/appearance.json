@@ -1,6 +1,8 @@
 {
-  "accentColor": "#eef207",
-  "cssTheme": "Faded",
+  "accentColor": "#830b93",
+  "cssTheme": "Blue Topaz",
   "monospaceFontFamily": "Cascadia Mono",
-  "baseFontSize": 28
+  "baseFontSize": 26,
+  "textFontFamily": "Cascadia Code",
+  "interfaceFontFamily": "Cascadia Code"
 }
